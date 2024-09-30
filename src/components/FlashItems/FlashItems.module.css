@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    gap: 16px;
+    justify-content: space-between;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 30px;
+}
+.card{
+    background-color: rgb(182, 182, 182);
+    width: 240px;
+    height: 200px;
+    border-radius: 5px;
+}

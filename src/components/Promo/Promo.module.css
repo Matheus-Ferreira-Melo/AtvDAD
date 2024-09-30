@@ -1,0 +1,43 @@
+.fundo{
+    background-color: #000;
+    color: white;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+    position: relative;
+}
+
+.language{
+    display: flex;
+    position: absolute;
+    right: 7%;
+}
+a:link{
+    color:white
+}
+
+a:visited{
+    color:white
+}
+
+a:hover{
+    color:white
+}
+
+a:active{
+    color:white
+}
+
+.dropdwon{
+    background: none;
+    color: white;
+    position: absolute;
+    border-color: black;
+}
+option{
+    background-color: #000;
+    color: white;
+    position: absolute;
+    padding: 20px;
+}
